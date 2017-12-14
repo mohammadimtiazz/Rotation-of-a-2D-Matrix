@@ -19,6 +19,7 @@ Rotate by -180:
     Method 3: Reverse by +180 as they are same    
     
 if the input matrix is:
+
   5 1 2 6
   
   1 1 9 3
@@ -29,25 +30,41 @@ if the input matrix is:
 
 
 90+ rotation of the input matrix:
+
 8 1 1 5
+
 1 1 1 1
+
 2 2 9 2
+
 7 3 3 6
 
 90- rotation of the input matrix:
+
 6 3 3 7
+
 2 9 2 2
+
 1 1 1 1
+
 5 1 1 8
 
 180+ rotation of the input matrix:
+
 7 2 1 8
+
 3 2 1 1
+
 3 9 1 1
+
 6 2 1 5
 
 180- rotation of the input matrix:
+
 7 2 1 8
+
 3 2 1 1
+
 3 9 1 1
+
 6 2 1 5
